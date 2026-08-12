@@ -3,7 +3,9 @@
 An interactive Excel dashboard designed to analyze restaurant order patterns, sales metrics, and customer preferences on Swiggy. The dashboard utilizes pivot tables, advanced custom number formatting, and interactive slicers to provide a dynamic business intelligence tool.
 
 ## Dashboard Preview
-<video src="Swiggy%20Data%20Analysis%20Video.mp4" width="100%" controls autoplay loop muted></video> 
+
+https://github.com/user-attachments/assets/b9fd86d1-b707-4702-a34e-7b2a2e615dc7
+
 ---
 
 ## Project Objectives
