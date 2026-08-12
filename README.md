@@ -1,10 +1,10 @@
-# Swiggy Data Analysis Dashboard (Excel)
+# Swiggy Data Analysis Dashboard
 
 An interactive Excel dashboard designed to analyze restaurant order patterns, sales metrics, and customer preferences on Swiggy. The dashboard utilizes pivot tables, advanced custom number formatting, and interactive slicers to provide a dynamic business intelligence tool.
 
 ## Dashboard Preview
 
-https://github.com/user-attachments/assets/b9fd86d1-b707-4702-a34e-7b2a2e615dc7
+https://github.com/user-attachments/assets/dd6a9d48-ed92-49be-ba46-f882b0eaf2bf
 
 ---
 
